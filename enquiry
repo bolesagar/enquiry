@@ -1,0 +1,12 @@
+ "enquirydetails": [
+        {
+            "eid": 7,
+            "name": "ppp",
+            "dob": "1st oct 2000",
+            "age": 21,
+            "gender": "female",
+            "email": "ppp@gmail.com",
+            "mobileno": 7.7777888E7,
+            "pancardno": 444555.0,
+            "addharcardno": 123456.0
+        }
