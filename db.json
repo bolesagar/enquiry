@@ -1,4 +1,4 @@
- "enquirydetails": [
+{ "enquirydetails": [
         {
             "eid": 7,
             "name": "ppp",
@@ -11,3 +11,4 @@
             "addharcardno": 123456.0
         }
 ]
+}
